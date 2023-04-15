@@ -1,0 +1,21 @@
+.margin {
+    max-width: 500px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.container{
+    max-width: 1270px;
+    margin: auto;
+}
+
+.container .contain{
+      display: inline-block;
+}
+.contain img{
+    height: 300px;
+}
+.contain p {
+    text-align: center;
+}
