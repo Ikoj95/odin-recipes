@@ -1,20 +1,22 @@
 .margin {
-    max-width: 500px;
+    max-width: 50%;
     margin: auto;
 }
 h1{
     text-align: center;
 }
 .container{
-    max-width: 1270px;
+    max-width: 50%;
     margin: auto;
+    display: flex;
+}
+#mid-margin{
+    margin: 0 1% 0 1%;
 }
 
-.container .contain{
-      display: inline-block;
-}
 .contain img{
     height: 300px;
+    width: 400px;
 }
 .contain p {
     text-align: center;
