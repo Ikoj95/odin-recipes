@@ -21,3 +21,16 @@ h1{
 .contain p {
     text-align: center;
 }
+body.margin {
+    text-align: center;
+}
+ul {
+    list-style: none;
+    text-align: left;
+}
+ol {
+    text-align: left;
+}
+.align {
+    text-align: left;
+}
