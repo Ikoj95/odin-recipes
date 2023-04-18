@@ -1,6 +1,7 @@
 .margin {
     max-width: 50%;
     margin: auto;
+    border-bottom-style: solid;
 }
 h1{
     text-align: center;
@@ -14,14 +15,14 @@ h1{
     margin: 0 1% 0 1%;
 }
 
-.contain img{
+img{
     height: 300px;
     width: 400px;
 }
 .contain p {
     text-align: center;
 }
-body.margin {
+div.margin {
     text-align: center;
 }
 ul {
@@ -33,4 +34,19 @@ ol {
 }
 .align {
     text-align: left;
+}
+.back-to-main{
+    text-align: center;
+}
+img {
+    border-style: solid;
+}
+.pic1{
+    border-color: red;
+}
+.pic2{
+    border-color: blue;
+}
+.pic3{
+    border-color: yellow;
 }
